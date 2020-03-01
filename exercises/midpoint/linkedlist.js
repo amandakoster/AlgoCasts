@@ -136,7 +136,7 @@ class LinkedList {
 
     let node = this.head;
     while (node.next) {
-      node = node.next;
+      node = node.next;insert
     }
 
     return node;
